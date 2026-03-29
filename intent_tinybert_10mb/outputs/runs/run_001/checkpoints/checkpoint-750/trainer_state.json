@@ -1,0 +1,208 @@
+{
+  "best_global_step": 750,
+  "best_metric": 0.716,
+  "best_model_checkpoint": "outputs/runs/run_001/checkpoints\\checkpoint-750",
+  "epoch": 3.0,
+  "eval_steps": 500,
+  "global_step": 750,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.2,
+      "grad_norm": 41.648040771484375,
+      "learning_rate": 4.9000000000000005e-06,
+      "loss": 27.6161,
+      "step": 50
+    },
+    {
+      "epoch": 0.4,
+      "grad_norm": 40.947322845458984,
+      "learning_rate": 9.9e-06,
+      "loss": 25.5687,
+      "step": 100
+    },
+    {
+      "epoch": 0.6,
+      "grad_norm": 39.48286437988281,
+      "learning_rate": 1.4900000000000001e-05,
+      "loss": 21.5578,
+      "step": 150
+    },
+    {
+      "epoch": 0.8,
+      "grad_norm": 30.030162811279297,
+      "learning_rate": 1.9900000000000003e-05,
+      "loss": 15.5536,
+      "step": 200
+    },
+    {
+      "epoch": 1.0,
+      "grad_norm": 17.332292556762695,
+      "learning_rate": 1.9455555555555555e-05,
+      "loss": 10.7862,
+      "step": 250
+    },
+    {
+      "epoch": 1.0,
+      "eval_attribute_acc": 0.641,
+      "eval_attribute_f1_weighted": 0.500769043266301,
+      "eval_exact_match_all_fields_with_span": 0.012,
+      "eval_exact_match_intent_target": 0.046,
+      "eval_intent_acc": 0.224,
+      "eval_intent_f1_weighted": 0.1782379217340145,
+      "eval_position_acc": 0.722,
+      "eval_position_f1_weighted": 0.6054401858304298,
+      "eval_runtime": 0.4659,
+      "eval_samples_per_second": 2146.58,
+      "eval_spatial_reference_span_em": 0.9910846953937593,
+      "eval_spatial_relation_acc": 0.54,
+      "eval_spatial_relation_f1_weighted": 0.4639535264623905,
+      "eval_steps_per_second": 34.345,
+      "eval_target_type_acc": 0.388,
+      "eval_target_type_f1_weighted": 0.22706227084630293,
+      "step": 250
+    },
+    {
+      "epoch": 1.2,
+      "grad_norm": 14.73395824432373,
+      "learning_rate": 1.8900000000000002e-05,
+      "loss": 9.2047,
+      "step": 300
+    },
+    {
+      "epoch": 1.4,
+      "grad_norm": 27.16693878173828,
+      "learning_rate": 1.8344444444444446e-05,
+      "loss": 8.5087,
+      "step": 350
+    },
+    {
+      "epoch": 1.6,
+      "grad_norm": 17.273427963256836,
+      "learning_rate": 1.778888888888889e-05,
+      "loss": 7.8308,
+      "step": 400
+    },
+    {
+      "epoch": 1.8,
+      "grad_norm": 14.721809387207031,
+      "learning_rate": 1.7233333333333337e-05,
+      "loss": 7.3852,
+      "step": 450
+    },
+    {
+      "epoch": 2.0,
+      "grad_norm": 14.071822166442871,
+      "learning_rate": 1.667777777777778e-05,
+      "loss": 6.9521,
+      "step": 500
+    },
+    {
+      "epoch": 2.0,
+      "eval_attribute_acc": 0.643,
+      "eval_attribute_f1_weighted": 0.5054957264957265,
+      "eval_exact_match_all_fields_with_span": 0.225,
+      "eval_exact_match_intent_target": 0.432,
+      "eval_intent_acc": 0.673,
+      "eval_intent_f1_weighted": 0.6565688588095893,
+      "eval_position_acc": 0.784,
+      "eval_position_f1_weighted": 0.7172429686613605,
+      "eval_runtime": 0.483,
+      "eval_samples_per_second": 2070.506,
+      "eval_spatial_reference_span_em": 0.9940564635958395,
+      "eval_spatial_relation_acc": 0.907,
+      "eval_spatial_relation_f1_weighted": 0.9070200702969535,
+      "eval_steps_per_second": 33.128,
+      "eval_target_type_acc": 0.673,
+      "eval_target_type_f1_weighted": 0.5960353963405708,
+      "step": 500
+    },
+    {
+      "epoch": 2.2,
+      "grad_norm": 12.898832321166992,
+      "learning_rate": 1.6122222222222224e-05,
+      "loss": 6.4192,
+      "step": 550
+    },
+    {
+      "epoch": 2.4,
+      "grad_norm": 14.519937515258789,
+      "learning_rate": 1.5566666666666668e-05,
+      "loss": 6.1249,
+      "step": 600
+    },
+    {
+      "epoch": 2.6,
+      "grad_norm": 12.21055793762207,
+      "learning_rate": 1.5011111111111112e-05,
+      "loss": 6.0606,
+      "step": 650
+    },
+    {
+      "epoch": 2.8,
+      "grad_norm": 13.570860862731934,
+      "learning_rate": 1.4455555555555555e-05,
+      "loss": 5.674,
+      "step": 700
+    },
+    {
+      "epoch": 3.0,
+      "grad_norm": 18.358304977416992,
+      "learning_rate": 1.39e-05,
+      "loss": 5.5197,
+      "step": 750
+    },
+    {
+      "epoch": 3.0,
+      "eval_attribute_acc": 0.675,
+      "eval_attribute_f1_weighted": 0.5622817018736159,
+      "eval_exact_match_all_fields_with_span": 0.418,
+      "eval_exact_match_intent_target": 0.716,
+      "eval_intent_acc": 0.858,
+      "eval_intent_f1_weighted": 0.8475832492074649,
+      "eval_position_acc": 0.856,
+      "eval_position_f1_weighted": 0.8214618967226023,
+      "eval_runtime": 0.4755,
+      "eval_samples_per_second": 2103.05,
+      "eval_spatial_reference_span_em": 0.9940564635958395,
+      "eval_spatial_relation_acc": 0.967,
+      "eval_spatial_relation_f1_weighted": 0.967064320025501,
+      "eval_steps_per_second": 33.649,
+      "eval_target_type_acc": 0.827,
+      "eval_target_type_f1_weighted": 0.7977751570750672,
+      "step": 750
+    }
+  ],
+  "logging_steps": 50,
+  "max_steps": 2000,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 8,
+  "save_steps": 500,
+  "stateful_callbacks": {
+    "EarlyStoppingCallback": {
+      "args": {
+        "early_stopping_patience": 2,
+        "early_stopping_threshold": 0.0
+      },
+      "attributes": {
+        "early_stopping_patience_counter": 0
+      }
+    },
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": false
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 0.0,
+  "train_batch_size": 32,
+  "trial_name": null,
+  "trial_params": null
+}

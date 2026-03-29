@@ -1,0 +1,10 @@
+,NONE,click,copy,delete,long-press,open,paste,scroll,tap
+NONE,0,0,0,0,0,0,0,0,0
+click,0,84,2,9,18,8,1,0,3
+copy,0,0,125,0,0,0,0,0,0
+delete,0,1,0,114,0,0,10,0,0
+long-press,0,0,0,0,125,0,0,0,0
+open,0,5,0,1,0,119,0,0,0
+paste,0,0,0,0,0,0,125,0,0
+scroll,0,0,0,0,0,0,0,125,0
+tap,0,0,0,0,0,0,0,0,125

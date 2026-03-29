@@ -1,0 +1,19 @@
+{
+  "eval_intent_acc": 0.942,
+  "eval_intent_f1_weighted": 0.939049806932933,
+  "eval_target_type_acc": 0.941,
+  "eval_target_type_f1_weighted": 0.9275347889750525,
+  "eval_attribute_acc": 0.816,
+  "eval_attribute_f1_weighted": 0.7764232434582897,
+  "eval_spatial_relation_acc": 0.997,
+  "eval_spatial_relation_f1_weighted": 0.9970044004679411,
+  "eval_position_acc": 0.952,
+  "eval_position_f1_weighted": 0.9506462275546582,
+  "eval_spatial_reference_span_em": 0.9968895800933126,
+  "eval_exact_match_all_fields_with_span": 0.691,
+  "eval_exact_match_intent_target": 0.887,
+  "eval_runtime": 0.4914,
+  "eval_samples_per_second": 2034.798,
+  "eval_steps_per_second": 32.557,
+  "epoch": 8.0
+}

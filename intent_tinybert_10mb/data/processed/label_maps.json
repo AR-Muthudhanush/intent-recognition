@@ -1,0 +1,119 @@
+{
+  "intent": {
+    "label2id": {
+      "NONE": 0,
+      "click": 1,
+      "copy": 2,
+      "delete": 3,
+      "long-press": 4,
+      "open": 5,
+      "paste": 6,
+      "scroll": 7,
+      "tap": 8
+    },
+    "id2label": {
+      "0": "NONE",
+      "1": "click",
+      "2": "copy",
+      "3": "delete",
+      "4": "long-press",
+      "5": "open",
+      "6": "paste",
+      "7": "scroll",
+      "8": "tap"
+    },
+    "num_labels": 9
+  },
+  "target_type": {
+    "label2id": {
+      "NONE": 0,
+      "button": 1,
+      "checkbox": 2,
+      "icon": 3,
+      "image": 4,
+      "link": 5,
+      "menu": 6,
+      "switch": 7,
+      "tab": 8,
+      "text": 9
+    },
+    "id2label": {
+      "0": "NONE",
+      "1": "button",
+      "2": "checkbox",
+      "3": "icon",
+      "4": "image",
+      "5": "link",
+      "6": "menu",
+      "7": "switch",
+      "8": "tab",
+      "9": "text"
+    },
+    "num_labels": 10
+  },
+  "attribute": {
+    "label2id": {
+      "NONE": 0,
+      "black": 1,
+      "blue": 2,
+      "gray": 3,
+      "green": 4,
+      "orange": 5,
+      "pink": 6,
+      "purple": 7,
+      "red": 8,
+      "white": 9,
+      "yellow": 10
+    },
+    "id2label": {
+      "0": "NONE",
+      "1": "black",
+      "2": "blue",
+      "3": "gray",
+      "4": "green",
+      "5": "orange",
+      "6": "pink",
+      "7": "purple",
+      "8": "red",
+      "9": "white",
+      "10": "yellow"
+    },
+    "num_labels": 11
+  },
+  "spatial_relation": {
+    "label2id": {
+      "NONE": 0,
+      "above": 1,
+      "below": 2,
+      "left_of": 3,
+      "next_to": 4,
+      "right_of": 5
+    },
+    "id2label": {
+      "0": "NONE",
+      "1": "above",
+      "2": "below",
+      "3": "left_of",
+      "4": "next_to",
+      "5": "right_of"
+    },
+    "num_labels": 6
+  },
+  "position": {
+    "label2id": {
+      "1st": 0,
+      "2nd": 1,
+      "3rd": 2,
+      "NONE": 3,
+      "last": 4
+    },
+    "id2label": {
+      "0": "1st",
+      "1": "2nd",
+      "2": "3rd",
+      "3": "NONE",
+      "4": "last"
+    },
+    "num_labels": 5
+  }
+}

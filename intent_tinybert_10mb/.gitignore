@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
