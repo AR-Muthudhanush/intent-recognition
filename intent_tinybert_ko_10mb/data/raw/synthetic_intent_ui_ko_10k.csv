@@ -1,0 +1,31 @@
+command,intent,target_type,attribute,spatial_relation,spatial_reference,position
+마지막 메뉴 열기,open,menu,없음,없음,없음,마지막
+텍스트 복사,copy,text,없음,없음,없음,없음
+텍스트 붙여넣기,paste,text,없음,없음,없음,없음
+회색 탭 3번 클릭,click,tab,회색,없음,없음,3번
+파란색 버튼 클릭,click,button,파란색,없음,없음,없음
+왼쪽의 체크박스 선택,click,checkbox,없음,left_of,없음,없음
+오른쪽 라디오 버튼 선택,click,radiobutton,없음,right_of,없음,없음
+위의 빨간색 입력란,click,textbox,빨간색,above,없음,없음
+아래 메뉴 항목 선택,click,menu,없음,below,없음,없음
+첫번째 항목 더블클릭,double_click,item,없음,없음,없음,first
+열기 버튼 클릭,click,button,없음,없음,button,없음
+닫기 탭 오른쪽의 텍스트 기울임,select,text,없음,right_of,탭,없음
+중간 드롭다운 선택,click,dropdown,없음,없음,없음,middle
+끝 항목 마우스 over,hover,item,없음,없음,없음,last
+카트 아이콘 위치 선택,click,icon,없음,없음,cart,없음
+메뉴 아래 링크 클릭,click,link,없음,below,menu,없음
+초록색 속성 필드 채우기,fill,textbox,초록색,없음,없음,없음
+상단 탭 비활성화,disable,tab,없음,above,없음,없음
+검은색 텍스트 선택,select,text,검은색,없음,없음,없음
+회색 버튼 2번 누르기,click,button,회색,없음,없음,2번
+노란색 입력 상자 지우기,clear,textbox,노란색,없음,없음,없음
+안쪽 체크박스 전부 선택,click,checkbox,없음,inside,없음,없음
+에러 메시지 옆 아이콘,click,icon,없음,next_to,메시지,없음
+흰색 배경 텍스트 복사,copy,text,흰색,없음,없음,없음
+도움말 드롭다운 열기,open,dropdown,없음,없음,도움말,없음
+파란색 버튼 아래 링크 클릭,click,link,없음,below,버튼,없음
+설정 메뉴 첫번째 항목,click,item,없음,없음,menu,first
+마지막 텍스트 필드 초기화,clear,textbox,없음,없음,없음,last
+회색 체크박스 체크,click,checkbox,회색,없음,없음,없음
+왼쪽 상단 버튼 클릭,click,button,없음,above,없음,없음
